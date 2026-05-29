@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Introducing Myself
 
-<img src="./banner.png" alt="Raein Seo GitHub Banner" width="100%" />
+<img src="assets/B3.png" alt="Raein Seo GitHub Banner" width="100%" />
 
 Hello, I'm Raein. I'm an Information Science student at the University of Wisconsin-Madison, interested in UX/UI design, frontend development, app development, and digital marketing.
 
