@@ -2,7 +2,7 @@
 
 <img src="assets/B1.png" alt="Raein Seo GitHub Banner" width="100%" />
 
-Hello, I'm Raein. I'm an Information Science student at the University of Wisconsin-Madison, with experience in UX/UI design, frontend development, app development, and digital marketing.
+Hello, I'm Raein. I'm an Information Science student at the University of Wisconsin-Madison, focused on UX/UI design, frontend development, app development, and digital marketing.
 
 - Designing user-centered interfaces with Figma.
 - Building web projects using HTML, CSS, JavaScript, and React.
