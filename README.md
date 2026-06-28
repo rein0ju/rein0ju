@@ -2,8 +2,6 @@
 
 <img src="assets/2.png" alt="Raein Seo GitHub Banner" width="100%" />
 
-<br>
-
 Hi, I'm **Raein Seo**, an Information Science student at the University of Wisconsin–Madison.  
 I’m interested in **UX/UI design, frontend development, app development, and digital marketing.**
 
