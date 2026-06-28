@@ -21,4 +21,4 @@ Welcome to my portfolio, where I showcase my [projects](YOUR_PORTFOLIO_LINK_HERE
 
 ## 🌷 Connect
 
-[Portfolio](포트폴리오링크) · [LinkedIn](링크드인링크) · [Email](mailto:rein0ju06@gmail.com)
+[Portfolio](포트폴리오링크) · [LinkedIn](www.linkedin.com/in/raein-seo) · [Email](mailto:rein0ju06@gmail.com)
